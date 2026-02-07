@@ -1,5 +1,5 @@
 
-<p>Hi, I’m Seray 👋  
+<p> <i> Hi, I’m Seray 👋 </i>
 📍 Florida | In College  
 Automation Test Engineer (in progress)  
 Java • Git • Selenium (next)  
