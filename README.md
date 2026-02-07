@@ -1,10 +1,10 @@
 
 <p> <i> Hi, I’m Seray 👋 </i>
-📍 Florida | In College  
+📍 Florida | CS student  
 Automation Test Engineer (in progress)  
 Java • Git • Selenium (next)  
 
-Currently building automated tests for my hospitality QR-code web application to . </p> 
+Currently improving in automation test engineering to test my hospitality QR-code web application and more.. </p> 
 
 
 
