@@ -4,7 +4,7 @@
 Automation Test Engineer (in progress)  
 Java • Git • Selenium (next)  
 
-Currently improving in automation test engineering to test my hospitality QR-code web application and further projects </p> 
+Currently improving in automation test engineering to test my hospitality QR-code web application for my current company and further projects </p> 
 
 
 
